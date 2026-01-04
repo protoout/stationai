@@ -23,24 +23,11 @@
 `6.` [応用制作・発表（35 min / 175 min）](06.md)
 `7.` [本日の振り返り（5 min / 180 min）](07.md)
 
-## ◾️ やること
-
-- miiboとLINEが連携した会話型AIのLINE Botの作成
-- Makeを使って外部サービスやAPIと連携したお天気Botの作成
-
-## 今日の流れ
-
-1. [授業の進め方について・今回使用するツール](./01_preparation.md)
-2. [miiboを触ってチャットボットを作成しよう](./02_miibo.md)
-3. [miiboとLINEを連携して会話型AIのLINE Botを作ろう](./03_miibo_LINE.md)
-4. [Makeを使って外部のAPIと連携しお天気Botを作ろう](./04_api_weather.md)
-
 ### 参考
 
-- [APIや外部サービスを探してみよう](./05_make-api.md)
-- [miiboでRAGを使い会話型AIの精度をあげてみよう](./06_miibo_RAG.md)
-- [自分でつくる・事例集](./07_example.md)
-- [Makeを使いこなすテクニック](08_Make_tips.md)
+- [Manus側にGitHubの内容を再度連携する](./ref_01.md)
+- [iOS(`.ipa`), Android(`.aab`)Buildとtestflight](./ref_02.md)
+- [APIと天気API（open-meteo）](./ref_03.md)
 
 ---
 
