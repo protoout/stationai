@@ -1,4 +1,8 @@
-# Manus側にGitHubの内容を再度連携する（簡単に`.apk`, `.aab`作成できる）
+# Manus側にGitHubの内容を再度連携する（TBD）
+
+- 簡単に`.apk`, `.aab`作成できる
+- 今後iOS用の`.ipa`
+
 
 ---
 
