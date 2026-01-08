@@ -9,7 +9,7 @@
 
 > [スライド資料資料](https://www.canva.com/design/DAG9zE8ISSE/VwbdN2wG7v45HnwkVNOzgw/view?utm_content=DAG9zE8ISSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8ae451377e)
 
-## 2. ハンズオン（13:30 - 16:30）
+## 2. ハンズオン前半（13:30 - 14:15）
 
 - `0.` [ハンズオンの前に（10 min　/ 10 min）](00.md)
 - `1.` ハンズオン準備（10 min / 10 min）
@@ -17,7 +17,7 @@
 
 - `2.` [Manusで天気予報アプリの雛形を作成し、スマホで動かす（20 min / 40 min）](01.md)
 
-## 3. ハンズオン（13:30 - 16:30）
+## 3. ハンズオン後半（14:30 - 15:30）
 
 > 10分間休憩
 
