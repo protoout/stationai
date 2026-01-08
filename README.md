@@ -1,21 +1,20 @@
 # PRE-STAPSワークショップ<br>生成AI ・バイブコーディングでアプリ開発体験！<br> 2026/1/10 (土) 13:00 - 17:00
 
-## 1. オープニング（13:00 - 13:30）
-
-<!-- ### ■ [授業における肖像権・著作権の取り扱いについて](https://protoout.notion.site/64f3dae09d4347e89dee6acf7a26727d)
-
-### ■ [オンライン受講の心構えと準備](https://protoout.notion.site/be609916d563422aba0397f4e7b53880)
-
-### ■ [授業への意気込みポストタイム](https://protoout.notion.site/X-d8372a6f7b154f38b8ec312170689479) -->
-
 ※ 時間は目安です。進捗状況などで多少前後する場合があります。
 
----
+## 1. オープニング（13:00 - 13:30）
+
+- 講師スタッフ紹介
+- 全体の流れ紹介など
+
+> [スライド資料資料](https://www.canva.com/design/DAG9zE8ISSE/VwbdN2wG7v45HnwkVNOzgw/view?utm_content=DAG9zE8ISSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8ae451377e)
 
 ## 2. ハンズオン（13:30 - 16:30）
 
 - `0.` [本日のハンズオンについて（10 min　/ 10 min）](00.md)
-- `1.` [ハンズオン準備（10 min / 10 min）](01.md)
+- `1.` ハンズオン準備（10 min / 10 min）
+    - [事前準備資料](https://gist.github.com/n0bisuke/13a25255d4230ead770d73c47247a2fb)の確認
+
 - `2.` [Manusで天気予報アプリの雛形を作成し、スマホで動かす（20 min / 40 min）](02.md)
 
 > 10分間休憩
