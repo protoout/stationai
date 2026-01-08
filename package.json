@@ -1,0 +1,21 @@
+{
+  "name": "stationai",
+  "version": "1.0.0",
+  "description": "<!-- ### ■ [授業における肖像権・著作権の取り扱いについて](https://protoout.notion.site/64f3dae09d4347e89dee6acf7a26727d)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protoout/stationai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/protoout/stationai/issues"
+  },
+  "homepage": "https://github.com/protoout/stationai#readme"
+}
