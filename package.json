@@ -4,6 +4,7 @@
   "description": "<!-- ### ■ [授業における肖像権・著作権の取り扱いについて](https://protoout.notion.site/64f3dae09d4347e89dee6acf7a26727d)",
   "main": "index.js",
   "scripts": {
+    "gitpush": "git add . && git commit -m 'update' && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
