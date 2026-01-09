@@ -10,11 +10,13 @@ React Nativeでのやり方
 
 ### Manusで
 
+> ![](https://i.gyazo.com/c71d57d756fd025fbf0ebbaaeaa2e8c6.png)
+
 ### Lavableなど別のAIエージェントツールで
 
 https://lovable.dev
 
-![](https://i.gyazo.com/82f2a3989dd1722004c4573be4899eeb.png)
+> ![](https://i.gyazo.com/82f2a3989dd1722004c4573be4899eeb.png)
 
 参考: https://note.com/doerstokyo_kb/n/n38e80f8eefca
 
@@ -43,6 +45,8 @@ ManusからそのままPublishはできません。
 
 AppStoreはストアにリリースするには年間13000円くらいのAppleへのお布施が必要になります。
 大人の皆さんにおねだりしましょう。
+
+まとめて組織登録ができるのでStationAiで登録しておいてもらってそれに乗っかるとかもよさそうですよね。（雑ですが）
 
 ### テストフライトでの検証やストアに申請など
 
