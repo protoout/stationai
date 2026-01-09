@@ -1,4 +1,4 @@
-# Tips
+# Tips: Gemini CLIやCodespacesなど
 
 ## 1. Gemini CLIの`shell mode`
 
