@@ -1,10 +1,18 @@
 # Tips: リリースに向けて
 
-## 1. ストアへのリリース iOS
+## 1. Webアプリ
 
 ## 2. ストアへのリリース Android
 
-## 3. Webアプリ
+Manusからそのまま
+
+> ![](https://i.gyazo.com/83ac0ef4bff59b27f3c812dc135a3621.png)
+
+## 3. ストアへのリリース iOS
+
+ManusからそのままPublishはできません。
+
+> ![](https://i.gyazo.com/d74ad0bfa39bbc25216cc28682974874.png)
 
 ## 4. Product Hunt
 
