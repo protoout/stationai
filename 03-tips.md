@@ -1,14 +1,14 @@
 # Tips: リリースに向けて
 
-## ストアへのリリース iOS
+## 1. ストアへのリリース iOS
 
-## ストアへのリリース Android
+## 2. ストアへのリリース Android
 
-## Webアプリ
+## 3. Webアプリ
 
-## Product Hunt
+## 4. Product Hunt
 
-## 最近流行りのWeb3プラットフォーム orynth
+## 5. 最近流行りのWeb3プラットフォーム orynth
 
 https://www.orynth.dev/projects/mikeiken-club
 
