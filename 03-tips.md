@@ -2,7 +2,21 @@
 
 ## 1. Webアプリ
 
+色々な方法があります。
 
+### 
+
+React Nativeでのやり方
+
+### Manusで
+
+### Lavableなど別のAIエージェントツールで
+
+https://lovable.dev
+
+![](https://i.gyazo.com/82f2a3989dd1722004c4573be4899eeb.png)
+
+参考: https://note.com/doerstokyo_kb/n/n38e80f8eefca
 
 ## 2. ストアへのリリース Android
 
@@ -29,7 +43,6 @@ ManusからそのままPublishはできません。
 
 AppStoreはストアにリリースするには年間13000円くらいのAppleへのお布施が必要になります。
 大人の皆さんにおねだりしましょう。
-
 
 ### テストフライトでの検証やストアに申請など
 
