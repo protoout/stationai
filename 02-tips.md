@@ -22,7 +22,7 @@ Geminiへの入力はGemni CLIを起動して入力、通常のコマンドはGe
 
 > <img src="https://i.gyazo.com/932124fedc38ac2653e4df5a1206de8d.png" alt="gyazo.png" width="450px" />
 >
-> 通常二次元バーコードが表示される`npm dev:metro`を実行しても、見切れて表示されない。
+> 通常二次元バーコードが表示される`npm run dev:metro`を実行しても、見切れて表示されない。
 
 今後の参考としてご認識ください。
 
