@@ -1,14 +1,20 @@
 # Tips: リリースに向けて
 
+作るだけではなく、リリースやテスト公開をして多くの人に使ってもらってみましょう。
+
+※公開できる状態にすることをデプロイと呼びます。
+
 ## 1. Webアプリ
 
-色々な方法があります。
+今回利用したGitHubの機能のGitHub Pagesだと簡単なWebサイト（サーバー側の実装無し）のデプロイが可能です。
 
-### 
+少し複雑なサーバーサイドの実装が伴うものは、Renderというサービスにデプロイするのが無料でデプロイ出来ます。
 
-React Nativeでのやり方
+- https://render.com
+- GitHub Pages
+    - 参考: https://docs.github.com/ja/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
-### Manusで
+### Manusでも
 
 > ![](https://i.gyazo.com/c71d57d756fd025fbf0ebbaaeaa2e8c6.png)
 
@@ -56,7 +62,22 @@ https://zenn.dev/n0bisuke/scraps/4ffb2eee6831a0
 
 ## 4. Product Hunt
 
+世界中の新規プロダクトが投稿されるプラットフォーム
+
+https://www.producthunt.com 
+
+いろんな人が新規サービスを探してウォッチしてたりします。
+
+- 知り合いが最近投稿してました。
+    - https://www.producthunt.com/products/giselle
+
 ## 5. 最近流行りのWeb3プラットフォーム orynth
 
-https://www.orynth.dev/projects/mikeiken-club
+ここ数日ホットになっているWeb3版のProduct Huntっぽいサービス。
+
+https://www.orynth.dev
+
+- 僕も作った小さなサービスを投稿してみました
+    - 公開には審査があるみたい
+    - https://www.orynth.dev/projects/mikeiken-club
 
